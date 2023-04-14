@@ -1,0 +1,61 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 700;
+}
+
+.conetedor-img-navbar{
+    display: flex;
+    margin: 50px 15%;
+    justify-content: space-between;
+}
+
+.enlaces{
+    margin-left: 20px;
+}
+
+.img-logo{
+    width: 60px;
+}
+
+.menu-navbar{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container-centro{
+    text-align: center;
+    margin: 150px 370px 100px 370px;
+}
+
+.container-parrafolinea{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+}
+
+.linea{
+    border-top: 0px;
+    border-bottom: solid;
+    width: 80%;
+    margin-bottom: 5px;
+} 
+
+.parrafo2{
+    font-family: 'Montserrat', sans-serif;
+    
+    font-size: 90px;
+    font-weight: 700;
+    letter-spacing: 15px;
+}
+
+.parrafo3, .parrafo4{
+    text-align: end;
+}
