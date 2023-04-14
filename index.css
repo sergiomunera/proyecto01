@@ -13,6 +13,7 @@
 
 .enlaces{
     margin-left: 20px;
+    color: black;
 }
 
 .img-logo{
@@ -37,14 +38,14 @@ a{
 
 .container-parrafolinea{
     display: flex;
-    justify-content: space-between;
     padding: 2px;
 }
 
 .linea{
+    margin-left: 45px;
     border-top: 0px;
     border-bottom: solid;
-    width: 80%;
+    width: 70%;
     margin-bottom: 5px;
 } 
 
